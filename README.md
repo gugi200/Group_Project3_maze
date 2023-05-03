@@ -12,3 +12,5 @@ video_processing_test3.py "Slow and Steady" method solves easy and medium maze u
 hard_code_feedback.py is the semi-autonomous mathod of solving easy and medium maze. 
 
 mazeGUI.py runs the Graphical User Interface.
+
+servo.py controls the servomotors.
